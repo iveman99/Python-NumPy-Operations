@@ -43,11 +43,13 @@ Her mentorship continues to inspire structured thinking and mathematical clarity
 ---
 
 ### 📂 Repository Structure
+```text
 Python-NumPy-Operations-ScribbledLogicVol2/
 │
 ├── NumPy_Operations.ipynb
 ├── NumPy_Operations.pdf
 └── README.md
+```
 ---
 
 ### 🧩 About the Scribbled Logic Series  
